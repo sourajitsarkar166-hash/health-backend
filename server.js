@@ -15,7 +15,7 @@ console.log("BMI ROUTES OBJECT =", bmiRoutes);
 console.log("LOADING BODY FAT ROUTES NOW");
 
 const bodyFatRoutes =
-require("./routes/bodyFatRoutes");
+require("./routes/bodyFatRoutes")
 
 console.log("BODY FAT ROUTES OBJECT =", bodyFatRoutes);
 
